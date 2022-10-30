@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933692109072",
+    "project_id": "tell-ed695",
+    "storage_bucket": "tell-ed695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933692109072:android:d93c798ad10e4849143595",
+        "android_client_info": {
+          "package_name": "com.example.tell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933692109072-hlq8p1je4b8t4pr1b5b62a1n3r08k6sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1pIDlWnbY960ybBj7x_1XksUlDh6-7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933692109072-hlq8p1je4b8t4pr1b5b62a1n3r08k6sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

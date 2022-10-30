@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tell</string>
+    <string name="tell_button_desc">tell button</string>
+    <string name="displayedText">displayedText</string>
+</resources>
